@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "795888310214",
+    "project_id": "arcitech-27fec",
+    "storage_bucket": "arcitech-27fec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795888310214:android:a84a3b81a61896685544c7",
+        "android_client_info": {
+          "package_name": "com.example.arcitech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKLDkX9emqcK_XByD1pruV4pnBEYIcP88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

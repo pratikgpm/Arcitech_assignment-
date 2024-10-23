@@ -1,0 +1,37 @@
+Assignment Overview:
+You are required to develop a mobile application using Flutter that demonstrates your ability to create a functional, well-designed, and efficient app. The application should include the following features and functionalities:
+
+Project Requirements:
+
+1. User Authentication:
+   - Implement user registration and login functionality using email and password.
+   - Utilize Firebase Authentication for managing user accounts.
+
+2. Home Screen:
+   - Design a user-friendly home screen that displays a list of items fetched from an external API.
+   - Each item should display a title, image, and brief description.
+
+3. Item Details Screen:
+   - When an item is selected from the list, navigate to a details screen.
+   - Display detailed information about the item, including additional images and descriptions.
+
+4. Search Functionality:
+   - Implement a search feature that allows users to search for items by keywords.
+   - Display search results dynamically as the user types.
+
+5. Favorites Feature:
+   - Allow users to mark items as favorites.
+   - Provide a separate screen to view a list of all favorite items.
+
+6. Profile Management:
+   - Implement a profile screen where users can view and edit their profile information.
+   - Allow users to upload a profile picture.
+
+7. Push Notifications:
+   - Implement push notifications to notify users of new items or updates.
+   - Utilize Firebase Cloud Messaging for managing notifications.
+
+8. State Management:
+   - Use a state management solution (such as Provider, Bloc, or Riverpod) to manage app state effectively.
+
+Deadline: Please make sure that the deadline to submit the assignment is 24 hour
